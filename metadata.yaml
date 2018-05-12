@@ -1,0 +1,33 @@
+_repo: The-Discovery-of-a-World-in-the-Moone--13-Or-A-Discovrse-Tending-To-Prove-That-Tis-Probable-T__19103
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilkins, John
+    aliases:
+    - Wilkins, J. (John)
+    - John, Lord Bishop of Chester
+    birthdate: 1614
+    deathdate: 1672
+    gutenberg_agent_id: '8467'
+    url: http://www.gutenberg.org/2009/agents/8467
+    wikipedia: http://en.wikipedia.org/wiki/John_Wilkins
+description: ''
+gutenberg_bookshelf: Astronomy
+gutenberg_issued: '2006-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19103'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astronomy -- Early works to 1800'
+- !lcsh 'Moon -- Early works to 1800'
+- !lcc 'QB'
+title: "The Discovery of a World in the Moone\r\nOr, A Discovrse Tending To Prove\
+  \ That 'Tis Probable There May Be Another Habitable World In That Planet"
+url: http://www.gutenberg.org/ebooks/19103
